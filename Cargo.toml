@@ -1,0 +1,13 @@
+[package]
+name = "hawk_conf"
+version = "0.1.0"
+authors = ["bishtpawan <pawan.bisht@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+mongodb = "0.3.12"
+chrono = "0.4.6"
+bson = "0.13.0"
+env_logger = "0.6.0"
+log = "0.4.6"
+colored = "1.7"
